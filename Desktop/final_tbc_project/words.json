@@ -1,0 +1,512 @@
+{
+    "words": [
+        {
+            "word": "python",
+            "hint": "A programming language"
+        },
+        {
+            "word": "hangman",
+            "hint": "The game you're playing now"
+        },
+        {
+            "word": "computer",
+            "hint": "Electronic device for processing data and running programs"
+        },
+        {
+            "word": "programming",
+            "hint": "Writing code for software"
+        },
+        {
+            "word": "algorithm",
+            "hint": "A step-by-step procedure for calculations"
+        },
+        {
+            "word": "database",
+            "hint": "An organized collection of data"
+        },
+        {
+            "word": "network",
+            "hint": "A system of interconnected elements"
+        },
+        {
+            "word": "software",
+            "hint": "Programs and other operating information"
+        },
+        {
+            "word": "internet",
+            "hint": "A global computer network"
+        },
+        {
+            "word": "keyboard",
+            "hint": "Device with keys for typing text and commands"
+        },
+        {
+            "word": "blunder",
+            "hint": "A very poor move, typically one that leads to a significant loss of material or a direct threat to the king"
+        },
+        {
+            "word": "fork",
+            "hint": "A tactic where one piece attacks two or more of the opponent's pieces simultaneously"
+        },
+        {
+            "word": "pin",
+            "hint": "A situation where a piece cannot move without exposing a more valuable piece to attack"
+        },
+        {
+            "word": "skewer",
+            "hint": "A tactic where a more valuable piece is attacked, forcing it to move and revealing a less valuable piece behind it"
+        },
+        {
+            "word": "zwischenzug",
+            "hint": "A German word meaning 'in-between move'; it refers to a tactic where a move is inserted between an expected sequence"
+        },
+        {
+            "word": "fianchetto",
+            "hint": "A pawn structure where the bishop is developed to the second rank, usually on the long diagonal"
+        },
+        {
+            "word": "gambit",
+            "hint": "A chess opening where a player sacrifices material to gain positional or tactical advantage"
+        },
+        {
+            "word": "sacrifice",
+            "hint": "Deliberately giving up material to achieve a tactical or strategic advantage"
+        },
+        {
+            "word": "kingside",
+            "hint": "The half of the board where the king starts the game"
+        },
+        {
+            "word": "queenside",
+            "hint": "The half of the board where the queen starts the game"
+        },
+        {
+            "word": "blitz",
+            "hint": "A fast-paced chess game with a short time control, typically 3 to 5 minutes per player"
+        },
+        {
+            "word": "bullet",
+            "hint": "An even faster form of chess, with very short time controls, usually 1 minute per player"
+        },
+        {
+            "word": "tempo",
+            "hint": "A term referring to gaining or losing time in the game by making efficient moves"
+        },
+        {
+            "word": "resignation",
+            "hint": "The act of conceding defeat in a game of chess"
+        },
+        {
+            "word": "novice",
+            "hint": "A beginner or inexperienced chess player"
+        },
+        {
+            "word": "grandmaster",
+            "hint": "A chess title awarded to the highest-ranking players in the world"
+        },
+        {
+            "word": "patzer",
+            "hint": "A derogatory term for an inexperienced or weak player"
+        },
+        {
+            "word": "overload",
+            "hint": "A tactic where a piece is given too many defensive tasks"
+        },
+        {
+            "word": "discovered",
+            "hint": "A tactic where moving one piece uncovers an attack by another piece"
+        },
+        {
+            "word": "isolated",
+            "hint": "A pawn that has no other pawns of the same color on adjacent files"
+        },
+        {
+            "word": "sushi",
+            "hint": "Japanese dish of vinegared rice combined with raw fish or seafood"
+        },
+        {
+            "word": "paella",
+            "hint": "Spanish rice dish with saffron, vegetables, and various meats or seafood"
+        },
+        {
+            "word": "risotto",
+            "hint": "Italian rice dish cooked slowly in broth until creamy"
+        },
+        {
+            "word": "kimchi",
+            "hint": "Korean fermented vegetables, typically cabbage with spicy seasonings"
+        },
+        {
+            "word": "hummus",
+            "hint": "Middle Eastern dip made from chickpeas, tahini, lemon, and garlic"
+        },
+        {
+            "word": "guacamole",
+            "hint": "Mexican avocado-based dip with lime, tomatoes, and onions"
+        },
+        {
+            "word": "tiramisu",
+            "hint": "Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese"
+        },
+        {
+            "word": "croissant",
+            "hint": "French crescent-shaped buttery pastry with flaky layers"
+        },
+        {
+            "word": "ratatouille",
+            "hint": "French Provençal stewed vegetable dish with eggplant, tomatoes, and zucchini"
+        },
+        {
+            "word": "gazpacho",
+            "hint": "Spanish cold soup made with raw vegetables, typically tomato-based"
+        },
+        {
+            "word": "poutine",
+            "hint": "Canadian dish of french fries topped with gravy and cheese curds"
+        },
+        {
+            "word": "gnocchi",
+            "hint": "Italian potato-based pasta dumplings"
+        },
+        {
+            "word": "tempura",
+            "hint": "Japanese dish of battered and deep-fried seafood or vegetables"
+        },
+        {
+            "word": "falafel",
+            "hint": "Middle Eastern deep-fried balls made from ground chickpeas or fava beans"
+        },
+        {
+            "word": "bruschetta",
+            "hint": "Italian appetizer of grilled bread rubbed with garlic and topped with tomatoes"
+        },
+        {
+            "word": "tzatziki",
+            "hint": "Greek yogurt-based sauce with cucumber, garlic, and herbs"
+        },
+        {
+            "word": "quinoa",
+            "hint": "South American grain-like seed known for its high protein content"
+        },
+        {
+            "word": "wasabi",
+            "hint": "Japanese horseradish paste often served with sushi"
+        },
+        {
+            "word": "gelato",
+            "hint": "Italian-style ice cream made with milk and natural flavors"
+        },
+        {
+            "word": "baklava",
+            "hint": "Middle Eastern dessert made of layered phyllo dough, nuts, and honey"
+        },
+        {
+            "word": "penguin",
+            "hint": "A flightless aquatic bird from the Southern Hemisphere that waddles and swims"
+        },
+        {
+            "word": "elephant",
+            "hint": "The largest land mammal, known for its trunk and tusks"
+        },
+        {
+            "word": "giraffe",
+            "hint": "The tallest living animal with a very long neck"
+        },
+        {
+            "word": "dolphin",
+            "hint": "An intelligent marine mammal known for its playful behavior"
+        },
+        {
+            "word": "octopus",
+            "hint": "A sea creature with eight arms and high intelligence"
+        },
+        {
+            "word": "butterfly",
+            "hint": "An insect with colorful wings that undergoes metamorphosis"
+        },
+        {
+            "word": "kangaroo",
+            "hint": "An Australian marsupial that hops and carries babies in its pouch"
+        },
+        {
+            "word": "rhinoceros",
+            "hint": "A large armored mammal with one or two horns"
+        },
+        {
+            "word": "crocodile",
+            "hint": "A large aquatic reptile with powerful jaws"
+        },
+        {
+            "word": "gorilla",
+            "hint": "The largest living primate, known for its strength"
+        },
+        {
+            "word": "zebra",
+            "hint": "An African equine with distinctive black and white stripes"
+        },
+        {
+            "word": "koala",
+            "hint": "An Australian marsupial that lives in eucalyptus trees"
+        },
+        {
+            "word": "panda",
+            "hint": "A black and white bear native to China that eats bamboo"
+        },
+        {
+            "word": "tiger",
+            "hint": "The largest wild cat species with distinctive stripes"
+        },
+        {
+            "word": "monkey",
+            "hint": "A clever primate known for its agility and mischief"
+        },
+        {
+            "word": "hedgehog",
+            "hint": "A small spiny mammal that rolls into a ball when threatened"
+        },
+        {
+            "word": "flamingo",
+            "hint": "A pink wading bird that often stands on one leg"
+        },
+        {
+            "word": "peacock",
+            "hint": "A male peafowl known for its colorful tail display"
+        },
+        {
+            "word": "raccoon",
+            "hint": "A nocturnal mammal with a masked face and ringed tail"
+        },
+        {
+            "word": "unicorn",
+            "hint": "A mythical horse-like creature with a single horn"
+        },
+        {
+            "word": "llama",
+            "hint": "A South American relative of camels known for spitting"
+        },
+        {
+            "word": "sloth",
+            "hint": "A very slow-moving tree-dwelling mammal"
+        },
+        {
+            "word": "skunk",
+            "hint": "A black and white mammal known for its defensive spray"
+        },
+        {
+            "word": "beaver",
+            "hint": "A large rodent that builds dams and lodges in water"
+        },
+        {
+            "word": "owl",
+            "hint": "A nocturnal bird of prey that can turn its head almost 360 degrees"
+        },
+        {
+            "word": "eagle",
+            "hint": "A large bird of prey with exceptional eyesight"
+        },
+        {
+            "word": "swan",
+            "hint": "A large elegant water bird with a long curved neck"
+        },
+        {
+            "word": "parrot",
+            "hint": "A colorful bird known for mimicking human speech"
+        },
+        {
+            "word": "rabbit",
+            "hint": "A small mammal with long ears and a fluffy tail"
+        },
+        {
+            "word": "hamster",
+            "hint": "A small rodent popular as a pocket pet"
+        },
+        {
+            "word": "mouse",
+            "hint": "A tiny rodent with a long tail"
+        },
+        {
+            "word": "lion",
+            "hint": "The king of the jungle with a magnificent mane"
+        },
+        {
+            "word": "wolf",
+            "hint": "A wild canine that lives and hunts in packs"
+        },
+        {
+            "word": "bear",
+            "hint": "A large omnivorous mammal that hibernates in winter"
+        },
+        {
+            "word": "pig",
+            "hint": "A farm animal known for its intelligence and curly tail"
+        },
+        {
+            "word": "cow",
+            "hint": "A farm animal that provides milk and beef"
+        },
+        {
+            "word": "chicken",
+            "hint": "A common farm bird that lays eggs"
+        },
+        {
+            "word": "rooster",
+            "hint": "A male chicken known for crowing at dawn"
+        },
+        {
+            "word": "turkey",
+            "hint": "A large bird often served during holidays"
+        },
+        {
+            "word": "monitor",
+            "hint": "Screen display for viewing computer output"
+        },
+        {
+            "word": "printer",
+            "hint": "Device that creates paper copies of digital documents"
+        },
+        {
+            "word": "stapler",
+            "hint": "Tool that fastens papers together with metal clips"
+        },
+        {
+            "word": "calendar",
+            "hint": "Tool for tracking dates, meetings, and appointments"
+        },
+        {
+            "word": "notebook",
+            "hint": "Book with blank pages for writing notes and ideas"
+        },
+        {
+            "word": "scissors",
+            "hint": "Tool with two blades for cutting paper"
+        },
+        {
+            "word": "envelope",
+            "hint": "Paper container for sending letters and documents"
+        },
+        {
+            "word": "telephone",
+            "hint": "Communication device for voice calls"
+        },
+        {
+            "word": "clipboard",
+            "hint": "Portable board for holding papers while writing"
+        },
+        {
+            "word": "pencil",
+            "hint": "Writing tool with graphite core that can be erased"
+        },
+        {
+            "word": "marker",
+            "hint": "Felt-tipped pen for bold writing or highlighting"
+        },
+        {
+            "word": "calculator",
+            "hint": "Electronic device for mathematical calculations"
+        },
+        {
+            "word": "paperclip",
+            "hint": "Small bent wire for temporarily holding papers together"
+        },
+        {
+            "word": "briefcase",
+            "hint": "Portable case for carrying documents and supplies"
+        },
+        {
+            "word": "whiteboard",
+            "hint": "Smooth white surface for writing with erasable markers"
+        },
+        {
+            "word": "headphones",
+            "hint": "Audio device worn over ears for private listening"
+        },
+        {
+            "word": "document",
+            "hint": "Written or printed paper containing information"
+        },
+        {
+            "word": "bookshelf",
+            "hint": "Furniture with horizontal boards for storing books"
+        },
+        {
+            "word": "mousepad",
+            "hint": "Surface that improves computer mouse movement"
+        },
+        {
+            "word": "scanner",
+            "hint": "Device that creates digital copies of physical documents"
+        },
+        {
+            "word": "sharpener",
+            "hint": "Tool for making pencils pointed and ready to write"
+        },
+        {
+            "word": "dustbin",
+            "hint": "Container for disposing of office waste"
+        },
+        {
+            "word": "spotlight",
+            "hint": "Focused beam of light for illuminating specific areas"
+        },
+        {
+            "word": "mailbox",
+            "hint": "Box for receiving and storing incoming mail"
+        },
+        {
+            "word": "portfolio",
+            "hint": "Case for carrying and presenting documents or artwork"
+        },
+        {
+            "word": "thumbtack",
+            "hint": "Short pin with a flat head for attaching papers to boards"
+        },
+        {
+            "word": "magazine",
+            "hint": "Periodical publication with articles and pictures"
+        },
+        {
+            "word": "desk",
+            "hint": "Furniture with a flat surface for working"
+        },
+        {
+            "word": "charger",
+            "hint": "Device for replenishing battery power in electronics"
+        },
+        {
+            "word": "webcam",
+            "hint": "Camera for video calls and online meetings"
+        },
+        {
+            "word": "microphone",
+            "hint": "Device for capturing and recording sound"
+        },
+        {
+            "word": "speaker",
+            "hint": "Device for playing audio and sound"
+        },
+        {
+            "word": "planner",
+            "hint": "Book for organizing schedules and tasks"
+        },
+        {
+            "word": "eraser",
+            "hint": "Tool for removing pencil marks from paper"
+        },
+        {
+            "word": "highlighter",
+            "hint": "Marker for emphasizing text with bright colors"
+        },
+        {
+            "word": "bookend",
+            "hint": "Support to keep books upright on a shelf"
+        },
+        {
+            "word": "nameplate",
+            "hint": "Sign displaying a person's name on their desk"
+        },
+        {
+            "word": "lanyard",
+            "hint": "Cord worn around neck to hold ID badge or keys"
+        }
+    ]
+} 
