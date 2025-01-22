@@ -117,17 +117,13 @@ class HangmanGame(WordGame):
     
     def use_hint(self):
         if self._hints_remaining > 0:
-            display_word = self._word.get_display_word()
-            word = self._word.word
-            
-            for i, char in enumerate(display_word):
-                if char == '_':
-                    letter = word[i]
-                    self._hints_remaining -= 1
-                    self._player.use_hint()
-                    self._guessed_letters.add(letter)
-                    self._word.reveal_letter(letter)
-                    return f"Revealed letter: {letter}"
+            letter = self._word.get_random_hint()
+            if letter:
+                self._hints_remaining -= 1
+                self._player.use_hint()
+                self._guessed_letters.add(letter)
+                self._word.reveal_letter(letter)
+                return f"Revealed letter: {letter}"
             return "No more letters to reveal!"
         return "No hints remaining!"
     
