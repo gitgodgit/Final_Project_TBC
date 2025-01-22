@@ -13,14 +13,14 @@ def display_high_scores():
     high_scores = data_manager.get_high_scores()
     
     print("\n🏆 High Scores:")
-    print("-" * 30)
-    print("🏅 Rank  Player          Score")
-    print("-" * 30)
+    print("-" * 40)
+    print("🏅 Rank  Player               Score")
+    print("-" * 40)
     
     medals = ["🥇", "🥈", "🥉", "✨", "✨"]
     for i, score in enumerate(high_scores[:5], 1):
-        print(f"{medals[i-1]} {i:2d}  {score['name']:<15} {score['score']:5d}")
-    print("-" * 30)
+        print(f"{medals[i-1]} {i:2d}    {score['name']:<20} {score['score']:5d}")
+    print("-" * 40)
 
 def main():
     print("\n" * 5)
@@ -44,7 +44,13 @@ def main():
             break
         
         display_high_scores()
-        play_again = input(f"\n🎮 {player_name}, would you like to play again? (y/n): ").lower()
+        play_again = input(f"\n🎮 {player_name}, would you like to play again? (y/n/change): ").lower()
+        if play_again == 'change':
+            player_name = get_player_name()
+            game = HangmanGame(player_name)
+            print(f"\n👋 Welcome, {player_name}!")
+            display_high_scores()
+            continue
         if play_again != 'y':
             break
     
